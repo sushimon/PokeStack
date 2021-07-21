@@ -8,7 +8,7 @@ Note: Please ensure the pokestack.ico, background.png, and stash.txt files are i
 
 
 ## REQUIREMENTS
- * \[Python 3.9\](www.python.org)
+ * \[Python 3.9\] (www.python.org)
  
  
 ## AUTHORS
